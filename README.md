@@ -44,9 +44,7 @@ Cloudflare Workers-compatible build.
 ## Installation
 
 ```sh
-git clone https://github.com/<your-org>/kajak-market-bizhack-2026.git
-cd kajak-market-bizhack-2026
-bun install
+git clone https://github.com/GjorgjeKamov/kajak-market-bizhack-2026.git
 cp .env.example .env     # then fill in TEST values only
 ```
 
